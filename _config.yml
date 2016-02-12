@@ -1,0 +1,28 @@
+name: UCCKE GLocal Activities
+favicon: null
+layout_spectrum: 0.5032461611554027
+typography_spectrum: 0.8652786461170763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1256942308973521
+  lightness: 0.9133360770065337
+  saturation: 0.31555744796060026
+  rhythmicContrast: 0.33192924153991044
+purpose: []
