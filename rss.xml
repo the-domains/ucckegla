@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[UCCKE GLocal Activities]]></title>
+        <description><![CDATA[UCCKE GLocal Activities]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Feb 2016 08:44:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cambodia Mission Trip]]></title>
+            <description><![CDATA[<article><h1>Cambodia Mission Trip</h1><p>We serve as a community.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3335f61a-1757-4bcd-abf4-0c7c70dc2484.JPG"></article>]]></description>
+            <link>undefinedcambodia-mission-trip/index.html</link>
+            <guid isPermaLink="false">717ae6bb-b37e-47a2-91b2-e98b99bad972</guid>
+            <pubDate>Sun, 14 Feb 2016 08:43:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
