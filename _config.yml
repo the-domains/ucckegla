@@ -1,28 +1,40 @@
-name: UCCKE GLocal Activities
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.8652786461170763
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: UCCKE GLocal Activities
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3155574479606003
+  brandStrength: 1
+  rhythmicContrast: 0.3319292415399104
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 1
   lightness: 0.9133360770065337
-  saturation: 0.31555744796060026
-  rhythmicContrast: 0.33192924153991044
-purpose: []
+typography_spectrum: 0.8652786461170763
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3001253
+analytics:
+  twitter: null
+  google: null
+  facebook: null
